@@ -4,7 +4,7 @@
 }
 
 .charsheet .sheet-monster {
-	background-image: url('http://www.geeksville.us/roll20/notebook.jpg');
+	background-image: url('https://raw.githubusercontent.com/aikepah/roll20-character-sheets/7b7588865133da8505e3420926fdde5aa8193375/Monsters%20and%20Other%20Childish%20Things/images/notebook.jpg');
 	min-height: 200px;
 	height: 1050px;
 	max-height:1050px;
@@ -158,7 +158,7 @@ input[type="checkbox"].sheet-ex + span::before{
 
 input[type="checkbox"].sheet-ex:checked + span::before
 {
-    content: url('http://www.geeksville.us/roll20/hand_drawn_x_small.png');
+    content: url('https://raw.githubusercontent.com/aikepah/roll20-character-sheets/7b7588865133da8505e3420926fdde5aa8193375/Monsters%20and%20Other%20Childish%20Things/images/hand_drawn_x_small.png');
     margin-top: -9px;
 }
 
@@ -179,7 +179,7 @@ input[type="checkbox"].sheet-ex:checked + span::before
 input[type="checkbox"].sheet-circle:checked + span::before
 {
 	display: inline-block;
-    content: url('http://www.geeksville.us/roll20/circles_tiny.png');
+    content: url('https://raw.githubusercontent.com/aikepah/roll20-character-sheets/7b7588865133da8505e3420926fdde5aa8193375/Monsters%20and%20Other%20Childish%20Things/images/circles_tiny.png');
     margin-top: -10px!important; 
     margin-left: -25px!important;
     margin-right: 11px;
@@ -248,7 +248,7 @@ input[type="checkbox"].sheet-circle:checked + span::before
 
 .charsheet span.sheet-is-monster-tab::before {
     /*content: "Switch to Monster";*/
-    content: url('http://www.geeksville.us/roll20/monstersmiley.png');
+    content: url('https://raw.githubusercontent.com/aikepah/roll20-character-sheets/7b7588865133da8505e3420926fdde5aa8193375/Monsters%20and%20Other%20Childish%20Things/images/monstersmiley.png');
 }
 
 .charsheet span.sheet-is-monster-tab::after {
@@ -281,7 +281,7 @@ input[type="checkbox"].sheet-circle:checked + span::before
 
 .charsheet input.sheet-is-monster:checked + span.sheet-is-monster-tab::before {
 	/*content: "Switch to Character"*/
-	content: url('http://www.geeksville.us/roll20/smiley.png');
+	content: url('https://raw.githubusercontent.com/aikepah/roll20-character-sheets/7b7588865133da8505e3420926fdde5aa8193375/Monsters%20and%20Other%20Childish%20Things/images/smiley.png');
 }
 
 .charsheet input.sheet-is-monster:checked + span.sheet-is-monster-tab::after {
